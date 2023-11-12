@@ -1,0 +1,14 @@
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\08 - Exercicio utilizando vetores\Utilizando Vetores\Utilizando Vetores\bin\Debug\net7.0\Utilizando Vetores.exe
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\08 - Exercicio utilizando vetores\Utilizando Vetores\Utilizando Vetores\bin\Debug\net7.0\Utilizando Vetores.deps.json
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\08 - Exercicio utilizando vetores\Utilizando Vetores\Utilizando Vetores\bin\Debug\net7.0\Utilizando Vetores.runtimeconfig.json
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\08 - Exercicio utilizando vetores\Utilizando Vetores\Utilizando Vetores\bin\Debug\net7.0\Utilizando Vetores.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\08 - Exercicio utilizando vetores\Utilizando Vetores\Utilizando Vetores\bin\Debug\net7.0\Utilizando Vetores.pdb
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\08 - Exercicio utilizando vetores\Utilizando Vetores\Utilizando Vetores\obj\Debug\net7.0\Utilizando Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\08 - Exercicio utilizando vetores\Utilizando Vetores\Utilizando Vetores\obj\Debug\net7.0\Utilizando Vetores.AssemblyInfoInputs.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\08 - Exercicio utilizando vetores\Utilizando Vetores\Utilizando Vetores\obj\Debug\net7.0\Utilizando Vetores.AssemblyInfo.cs
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\08 - Exercicio utilizando vetores\Utilizando Vetores\Utilizando Vetores\obj\Debug\net7.0\Utilizando Vetores.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\08 - Exercicio utilizando vetores\Utilizando Vetores\Utilizando Vetores\obj\Debug\net7.0\Utilizando Vetores.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\08 - Exercicio utilizando vetores\Utilizando Vetores\Utilizando Vetores\obj\Debug\net7.0\refint\Utilizando Vetores.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\08 - Exercicio utilizando vetores\Utilizando Vetores\Utilizando Vetores\obj\Debug\net7.0\Utilizando Vetores.pdb
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\08 - Exercicio utilizando vetores\Utilizando Vetores\Utilizando Vetores\obj\Debug\net7.0\Utilizando Vetores.genruntimeconfig.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\08 - Exercicio utilizando vetores\Utilizando Vetores\Utilizando Vetores\obj\Debug\net7.0\ref\Utilizando Vetores.dll

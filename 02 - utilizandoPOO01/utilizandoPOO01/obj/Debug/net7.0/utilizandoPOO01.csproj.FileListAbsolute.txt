@@ -1,0 +1,14 @@
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\utilizandoPOO01\utilizandoPOO01\obj\Debug\net7.0\utilizandoPOO01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\utilizandoPOO01\utilizandoPOO01\obj\Debug\net7.0\utilizandoPOO01.AssemblyInfoInputs.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\utilizandoPOO01\utilizandoPOO01\obj\Debug\net7.0\utilizandoPOO01.AssemblyInfo.cs
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\utilizandoPOO01\utilizandoPOO01\obj\Debug\net7.0\utilizandoPOO01.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\utilizandoPOO01\utilizandoPOO01\bin\Debug\net7.0\utilizandoPOO01.exe
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\utilizandoPOO01\utilizandoPOO01\bin\Debug\net7.0\utilizandoPOO01.deps.json
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\utilizandoPOO01\utilizandoPOO01\bin\Debug\net7.0\utilizandoPOO01.runtimeconfig.json
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\utilizandoPOO01\utilizandoPOO01\bin\Debug\net7.0\utilizandoPOO01.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\utilizandoPOO01\utilizandoPOO01\bin\Debug\net7.0\utilizandoPOO01.pdb
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\utilizandoPOO01\utilizandoPOO01\obj\Debug\net7.0\utilizandoPOO01.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\utilizandoPOO01\utilizandoPOO01\obj\Debug\net7.0\refint\utilizandoPOO01.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\utilizandoPOO01\utilizandoPOO01\obj\Debug\net7.0\utilizandoPOO01.pdb
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\utilizandoPOO01\utilizandoPOO01\obj\Debug\net7.0\utilizandoPOO01.genruntimeconfig.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\utilizandoPOO01\utilizandoPOO01\obj\Debug\net7.0\ref\utilizandoPOO01.dll

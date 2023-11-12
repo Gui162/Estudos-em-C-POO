@@ -1,0 +1,14 @@
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Encapsulamento GET e SET\Encapsulamento GET e SET\bin\Debug\net7.0\Encapsulamento GET e SET.exe
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Encapsulamento GET e SET\Encapsulamento GET e SET\bin\Debug\net7.0\Encapsulamento GET e SET.deps.json
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Encapsulamento GET e SET\Encapsulamento GET e SET\bin\Debug\net7.0\Encapsulamento GET e SET.runtimeconfig.json
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Encapsulamento GET e SET\Encapsulamento GET e SET\bin\Debug\net7.0\Encapsulamento GET e SET.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Encapsulamento GET e SET\Encapsulamento GET e SET\bin\Debug\net7.0\Encapsulamento GET e SET.pdb
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Encapsulamento GET e SET\Encapsulamento GET e SET\obj\Debug\net7.0\Encapsulamento GET e SET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Encapsulamento GET e SET\Encapsulamento GET e SET\obj\Debug\net7.0\Encapsulamento GET e SET.AssemblyInfoInputs.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Encapsulamento GET e SET\Encapsulamento GET e SET\obj\Debug\net7.0\Encapsulamento GET e SET.AssemblyInfo.cs
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Encapsulamento GET e SET\Encapsulamento GET e SET\obj\Debug\net7.0\Encapsulamento GET e SET.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Encapsulamento GET e SET\Encapsulamento GET e SET\obj\Debug\net7.0\Encapsulamento GET e SET.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Encapsulamento GET e SET\Encapsulamento GET e SET\obj\Debug\net7.0\refint\Encapsulamento GET e SET.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Encapsulamento GET e SET\Encapsulamento GET e SET\obj\Debug\net7.0\Encapsulamento GET e SET.pdb
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Encapsulamento GET e SET\Encapsulamento GET e SET\obj\Debug\net7.0\Encapsulamento GET e SET.genruntimeconfig.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Encapsulamento GET e SET\Encapsulamento GET e SET\obj\Debug\net7.0\ref\Encapsulamento GET e SET.dll

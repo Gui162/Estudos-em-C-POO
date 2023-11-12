@@ -1,0 +1,14 @@
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Primeiro exercicios com POO\utilizandoPOO02\utilizandoPOO02\bin\Debug\net7.0\utilizandoPOO02.exe
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Primeiro exercicios com POO\utilizandoPOO02\utilizandoPOO02\bin\Debug\net7.0\utilizandoPOO02.deps.json
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Primeiro exercicios com POO\utilizandoPOO02\utilizandoPOO02\bin\Debug\net7.0\utilizandoPOO02.runtimeconfig.json
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Primeiro exercicios com POO\utilizandoPOO02\utilizandoPOO02\bin\Debug\net7.0\utilizandoPOO02.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Primeiro exercicios com POO\utilizandoPOO02\utilizandoPOO02\bin\Debug\net7.0\utilizandoPOO02.pdb
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Primeiro exercicios com POO\utilizandoPOO02\utilizandoPOO02\obj\Debug\net7.0\utilizandoPOO02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Primeiro exercicios com POO\utilizandoPOO02\utilizandoPOO02\obj\Debug\net7.0\utilizandoPOO02.AssemblyInfoInputs.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Primeiro exercicios com POO\utilizandoPOO02\utilizandoPOO02\obj\Debug\net7.0\utilizandoPOO02.AssemblyInfo.cs
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Primeiro exercicios com POO\utilizandoPOO02\utilizandoPOO02\obj\Debug\net7.0\utilizandoPOO02.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Primeiro exercicios com POO\utilizandoPOO02\utilizandoPOO02\obj\Debug\net7.0\utilizandoPOO02.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Primeiro exercicios com POO\utilizandoPOO02\utilizandoPOO02\obj\Debug\net7.0\refint\utilizandoPOO02.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Primeiro exercicios com POO\utilizandoPOO02\utilizandoPOO02\obj\Debug\net7.0\utilizandoPOO02.pdb
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Primeiro exercicios com POO\utilizandoPOO02\utilizandoPOO02\obj\Debug\net7.0\utilizandoPOO02.genruntimeconfig.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\Primeiro exercicios com POO\utilizandoPOO02\utilizandoPOO02\obj\Debug\net7.0\ref\utilizandoPOO02.dll

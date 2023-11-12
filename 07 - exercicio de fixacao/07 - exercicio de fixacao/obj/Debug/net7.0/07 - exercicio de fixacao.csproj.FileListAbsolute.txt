@@ -1,0 +1,14 @@
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\07 - exercicio de fixacao\07 - exercicio de fixacao\bin\Debug\net7.0\07 - exercicio de fixacao.exe
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\07 - exercicio de fixacao\07 - exercicio de fixacao\bin\Debug\net7.0\07 - exercicio de fixacao.deps.json
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\07 - exercicio de fixacao\07 - exercicio de fixacao\bin\Debug\net7.0\07 - exercicio de fixacao.runtimeconfig.json
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\07 - exercicio de fixacao\07 - exercicio de fixacao\bin\Debug\net7.0\07 - exercicio de fixacao.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\07 - exercicio de fixacao\07 - exercicio de fixacao\bin\Debug\net7.0\07 - exercicio de fixacao.pdb
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\07 - exercicio de fixacao\07 - exercicio de fixacao\obj\Debug\net7.0\07 - exercicio de fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\07 - exercicio de fixacao\07 - exercicio de fixacao\obj\Debug\net7.0\07 - exercicio de fixacao.AssemblyInfoInputs.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\07 - exercicio de fixacao\07 - exercicio de fixacao\obj\Debug\net7.0\07 - exercicio de fixacao.AssemblyInfo.cs
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\07 - exercicio de fixacao\07 - exercicio de fixacao\obj\Debug\net7.0\07 - exercicio de fixacao.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\07 - exercicio de fixacao\07 - exercicio de fixacao\obj\Debug\net7.0\07 - exercicio de fixacao.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\07 - exercicio de fixacao\07 - exercicio de fixacao\obj\Debug\net7.0\refint\07 - exercicio de fixacao.dll
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\07 - exercicio de fixacao\07 - exercicio de fixacao\obj\Debug\net7.0\07 - exercicio de fixacao.pdb
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\07 - exercicio de fixacao\07 - exercicio de fixacao\obj\Debug\net7.0\07 - exercicio de fixacao.genruntimeconfig.cache
+C:\Users\cotoc\Desktop\APRENDIZADO CURSO POO\07 - exercicio de fixacao\07 - exercicio de fixacao\obj\Debug\net7.0\ref\07 - exercicio de fixacao.dll
