@@ -1,0 +1,15 @@
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\obj\Debug\net8.0\exemplo sem interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\obj\Debug\net8.0\exemplo sem interface.AssemblyInfoInputs.cache
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\obj\Debug\net8.0\exemplo sem interface.AssemblyInfo.cs
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\obj\Debug\net8.0\exemplo sem interface.csproj.CoreCompileInputs.cache
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\obj\Debug\net8.0\exemplo sem interface.sourcelink.json
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\bin\Debug\net8.0\exemplo sem interface.exe
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\bin\Debug\net8.0\exemplo sem interface.deps.json
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\bin\Debug\net8.0\exemplo sem interface.runtimeconfig.json
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\bin\Debug\net8.0\exemplo sem interface.dll
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\bin\Debug\net8.0\exemplo sem interface.pdb
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\obj\Debug\net8.0\exemplo sem interface.dll
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\obj\Debug\net8.0\refint\exemplo sem interface.dll
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\obj\Debug\net8.0\exemplo sem interface.pdb
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\obj\Debug\net8.0\exemplo sem interface.genruntimeconfig.cache
+C:\Users\Gui\Desktop\Nova pasta\Estudos-em-C-POO\13 - Interfaces\exemplo sem interface\exemplo sem interface\obj\Debug\net8.0\ref\exemplo sem interface.dll
